@@ -32,7 +32,7 @@ This script allows you to send emails with attachments using a Gmail account. Th
 - For sending via Gmail, make sure "less secure app" access is enabled or use a specific app password if you have two-step authentication enabled.
 - This script is created for demonstration and educational purposes only. Make sure to abide by the usage policies of the email service used for sending emails.
 
-# Thinks I learned
+# What I learned
 
 - **File Handling**: The script deals with reading from and writing to files to store and retrieve predefined data for email sending.
 - **User Input Handling**: Handling user input is crucial for customization. The script provides prompts and input fields for various data elements.
@@ -43,3 +43,7 @@ This script allows you to send emails with attachments using a Gmail account. Th
 - **Documentation**: Creating clear and concise documentation, such as this README file, helps users understand the purpose and usage of the script.
 
 
+# Contact Me
+Feel free to get in touch via:
+- 📧 Email: romeo.francesco.2002@gmail.com
+- 💼 LinkedIn: [Francesco Romeo](https://www.linkedin.com/in/FrancescoRomeo02)
